@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f4e6b845b86f5834ba9f334b63b94f76
+timeCreated: 1524347516
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Egyptian Nights
+  fontNames:
+  - Egyptian Nights
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
